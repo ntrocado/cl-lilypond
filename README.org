@@ -1,0 +1,12 @@
+* Cl-lilypond
+Common Lisp library to produce and run [[https://lilypond.org][LilyPond]] code.
+As it stands it mostly works with lists of pitches, expressed as midi note numbers, and durations, expressed as multiples and fractions of the beat. It also aims to correctly/reasonably engrave enharmonics and rhythms.
+
+* Dependencies
+- LilyPond
+- [[https://github.com/ntrocado/music-spelling][music-spelling]]
+  
+* TODO Examples and documentation
+
+* Author
+[[https://nunotrocado.com][Nuno Trocado]]
